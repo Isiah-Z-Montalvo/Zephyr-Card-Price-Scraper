@@ -1,2 +1,2 @@
 # Zephyr-Card-Price-Scraper
-Script to scrape card prices from tcgplayer.
+Script to scrape card prices from Troll and Toad.
